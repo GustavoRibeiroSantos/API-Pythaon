@@ -611,7 +611,7 @@ A busca pode receber parâmetros de três tipos: Texto, data e localização.</p
 
 <a name="sprint04"></a>
 ### Sprint 04
-#### :construction: Requisitos
+#### :white_check_mark: Requisitos
 - [x] Subir aplicação no Heroku
 - [x] Trabalhar desempenho das buscas por inserção/atualização de vaga 
 - [x] Trabalhar desempenho das buscas filtradas utilizando testes de carga expressivos 
@@ -627,7 +627,7 @@ A busca pode receber parâmetros de três tipos: Texto, data e localização.</p
 
  * GABRIEL DE QUEIROZ CORDEIRO **| Product Owner |**
  * SABRINA RAFAELA CALADO MARIANO **| Dev Team |**
- * GUSTAVO RIBEIRO DOS SANTOS **| Master |**
+ * GUSTAVO RIBEIRO DOS SANTOS **| Scrum Master |**
  * ARTHUR CARDOSO RINALDI DA SILVA **| Dev Team |**
  * PERILO CARVALHO DE OLIVEIRA JUNIOR **| Dev Team |**
  * VINICIUS FERNANDES DE LIMA **| Dev Team |**
