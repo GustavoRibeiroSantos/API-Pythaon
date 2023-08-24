@@ -1,5 +1,7 @@
 <div align="center">
-      ![Pythaon](/Documentos/Logo_Pythaon.png)
+ 
+	
+ ![Pythaon](/Documentos/Logo_Pythaon.png)
 </div>
 
 <div align="center">
@@ -14,8 +16,8 @@
       </p>
 </div>
 
-
 # <h1>Projeto Integrador 4º Semestre BD - Grupo Pythaon</h1>
+
 
 GitLab para desenvolvimento do Projeto Integrador do 4º Semestre - Banco de dados FATEC SJC
 
